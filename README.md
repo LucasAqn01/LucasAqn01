@@ -2,7 +2,7 @@
 
 **`Graduando em Ciência da Computação`**
  
-Me chamo Lucas da Silva Aquino, nascido em 2001 e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UFRRJ. Sou apaixonado por tecnologia e compartilho meu conhecimento no Github e através do meu Linkedin: (https://www.linkedin.com/in/lucas-aquino-966147188/h)", onde compartilho meus projetos e meu desenvolvimento acadêmico.
+Me chamo Lucas da Silva Aquino, nascido em 2001 e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UFRRJ. Sou aficionado pela área da tecnologia e compartilho meu conhecimento no Github e através do meu Linkedin: (https://www.linkedin.com/in/lucas-aquino-966147188/h)", onde compartilho meus projetos e meu desenvolvimento acadêmico.
 
 ---
 
