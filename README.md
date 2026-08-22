@@ -11,5 +11,9 @@ Me chamo Lucas da Silva Aquino, nascido em 2001 e sou natural do Rio de Janeiro.
 
 LINGUAGEM C: Aprendi esta linguagem na primeira matéria de programação da faculdade. Domino a manipulação dos principais tipos de dados, estruturas condicionais e de repetição, funções, ponteiros e recursividade. Aprendi os principais algorítmos de ordenação, árvores, hash e suas complexidades.
 
-PYTHON: Domino o básico da linguagem, tendo consolidado o aprendizado das principais estruturas de dados, estruturas condicionais, loops, sequências e implementação de funções.
+PYTHON: Tenho domínio intermediário da linguagem, tendo consolidado o aprendizado das principais estruturas de dados, estruturas condicionais, loops, sequências e implementação de funções.
 Conheço o paradigma de Programação Orientada a Objetos e tenho o foco de me especializar em Machine Learning e Análise de dados.
+
+MySQL: Domínio de operações DDL e DML (`CREATE`, `INSERT`, `UPDATE`, `DELETE`), modelagem  e consultas relacionais avançadas utilizando junções (`INNER JOIN`, `LEFT JOIN`).
+
+MongoDB(NoSQL): Prática com bancos orientados a documentos, realização de operações de CRUD e manipulação de coleções e estruturas JSON/BSON.
